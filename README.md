@@ -5,7 +5,6 @@ El chatbot está diseñado utilizando Python y utiliza Flask para conectarse a l
 
 La interfaz gráfica de usuario del chatbot está construida utilizando PyQt6, lo que permite a los usuarios interactuar de manera intuitiva con el chatbot y recibir información sobre el estado de producción y maquinaria de la empresa.
 
-El código fuente está disponible en este repositorio de GitHub y se proporciona documentación detallada y ejemplos de uso. Este proyecto es fácilmente personalizable y se puede adaptar a las necesidades específicas de cualquier empresa.
 
 # Funcionalidades del Chatbot
 1. Conexión a la base de datos de la empresa para obtener información en tiempo real sobre el estado de producción y maquinaria.
