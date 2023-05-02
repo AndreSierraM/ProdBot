@@ -20,7 +20,7 @@ TensorFlow/Keras.
 PyQt6.
 
 # Uso
-Para utilizar el chatbot, simplemente clone el repositorio y ejecute el archivo main.py. Asegúrese de haber instalado todas las dependencias necesarias. Una vez que el chatbot esté en ejecución, los usuarios pueden interactuar con él a través de la interfaz gráfica de usuario construida con PyQt6.
+
 
 # Contribuciones
 
